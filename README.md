@@ -1,2 +1,1 @@
 # HydraClass
-Hydra Class
